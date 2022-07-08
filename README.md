@@ -1,4 +1,4 @@
-# Tech job
+# SWOT of Tech job
 
 ### Startup
 - personal growth for entry-level 
